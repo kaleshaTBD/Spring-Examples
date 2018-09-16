@@ -10,7 +10,7 @@
 
 <constructor-arg value="101" type="int"></constructor-arg>
 <constructor-arg value="kalesha"></constructor-arg>
-
+<constructor-arg value="10000.00" type="float"></constructor-arg>
 </bean>  
   
 </beans>  
