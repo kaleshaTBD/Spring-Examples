@@ -49,7 +49,7 @@ public void setAnswers(Map<String, String> answers) {
 
 public void displayInfo(){  
     System.out.println("question id:"+id);  
-    System.out.println("question name:"+name);  
+    System.out.println("Here The Question IS:"+name);  
     System.out.println("Answers....");  
     Set<Entry<String, String>> set=answers.entrySet();  
     Iterator<Entry<String, String>> itr=set.iterator();  
